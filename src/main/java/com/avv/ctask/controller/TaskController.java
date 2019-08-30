@@ -1,7 +1,7 @@
-package com.avv.ntask.controller;
+package com.avv.ctask.controller;
 
-import com.avv.ntask.model.ModelTask;
-import com.avv.ntask.service.TaskService;
+import com.avv.ctask.model.ModelTask;
+import com.avv.ctask.service.TaskService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

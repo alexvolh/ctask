@@ -1,4 +1,4 @@
-package com.avv.ntask.model;
+package com.avv.ctask.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

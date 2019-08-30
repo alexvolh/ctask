@@ -1,6 +1,6 @@
-package com.avv.ntask.service;
+package com.avv.ctask.service;
 
-import com.avv.ntask.model.ModelTask;
+import com.avv.ctask.model.ModelTask;
 
 import java.util.List;
 

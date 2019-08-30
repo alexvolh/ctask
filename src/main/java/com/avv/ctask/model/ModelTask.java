@@ -1,8 +1,7 @@
-package com.avv.ntask.model;
+package com.avv.ctask.model;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 import javax.persistence.*;

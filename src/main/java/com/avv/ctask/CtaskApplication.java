@@ -1,13 +1,13 @@
-package com.avv.ntask;
+package com.avv.ctask;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NtaskApplication {
+public class CtaskApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(NtaskApplication.class, args);
+        SpringApplication.run(CtaskApplication.class, args);
     }
 
 }

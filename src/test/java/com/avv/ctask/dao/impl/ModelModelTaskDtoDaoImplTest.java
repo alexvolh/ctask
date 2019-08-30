@@ -1,7 +1,7 @@
-package com.avv.ntask.dao.impl;
+package com.avv.ctask.dao.impl;
 
-import com.avv.ntask.dao.ModelTaskDao;
-import com.avv.ntask.model.ModelTask;
+import com.avv.ctask.dao.ModelTaskDao;
+import com.avv.ctask.model.ModelTask;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;

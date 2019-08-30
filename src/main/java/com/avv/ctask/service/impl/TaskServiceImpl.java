@@ -1,8 +1,8 @@
-package com.avv.ntask.service.impl;
+package com.avv.ctask.service.impl;
 
-import com.avv.ntask.dao.ModelTaskDao;
-import com.avv.ntask.model.ModelTask;
-import com.avv.ntask.service.TaskService;
+import com.avv.ctask.dao.ModelTaskDao;
+import com.avv.ctask.model.ModelTask;
+import com.avv.ctask.service.TaskService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

@@ -11,8 +11,8 @@
     <groupId>com.avv.ntask</groupId>
     <artifactId>ntask</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ntask</name>
-    <description>Demo project for Spring Boot</description>
+    <name>ctask</name>
+    <description>ctask or check task is the to-do manager</description>
 
     <properties>
         <java.version>1.8</java.version>
